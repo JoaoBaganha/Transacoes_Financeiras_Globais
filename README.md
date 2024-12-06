@@ -12,7 +12,7 @@ Este projeto foi estruturado em quatro etapas principais:
 
 2. **Tratamento de Dados**  
    - Correção de inconsistências e preparação dos dados.  
-   - Utilização de **Python** para automação do processo de limpeza e manipulação.  
+   - Utilização de **Python** e **Excel** para automação do processo de limpeza e manipulação.  
 
 3. **Automatização**  
    - Implementação de **registros de log** para rastrear alterações no banco de dados.  
